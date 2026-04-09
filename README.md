@@ -4,7 +4,7 @@
 
 Aplicación móvil (APK) de noticias enfocada en la región sudamericana. Muestra noticias actualizadas en tiempo real mediante el consumo de una API externa. Además, cuenta con funcionalidades sociales y de personalización almacenadas localmente y en un servidor propio.
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:30px;">
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/11.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/22.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/88.jpeg" width="200"/>
