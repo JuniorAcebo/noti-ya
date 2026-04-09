@@ -5,13 +5,13 @@
 Aplicación móvil (APK) de noticias enfocada en la región sudamericana. Muestra noticias actualizadas en tiempo real mediante el consumo de una API externa. Además, cuenta con funcionalidades sociales y de personalización almacenadas localmente y en un servidor propio.
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N1.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N2.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N3.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N4.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N5.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N6.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/N7.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/11.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/22.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/33.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/44.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/55.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/66.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/77.jpeg" width="200"/>
 </div>
 
 ## Funcionalidades
