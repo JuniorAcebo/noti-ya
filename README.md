@@ -4,16 +4,14 @@
 
 Aplicación móvil (APK) de noticias enfocada en la región sudamericana. Muestra noticias actualizadas en tiempo real mediante el consumo de una API externa. Además, cuenta con funcionalidades sociales y de personalización almacenadas localmente y en un servidor propio.
 
-<div style="display:flex; flex-wrap:wrap;">
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/11.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/22.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/44.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/55.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/66.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/88.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/99.jpeg" width="200" style="margin:15px;"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/00.jpeg" width="200" style="margin:15px;"/>
-</div>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/11.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/22.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/44.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/55.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/66.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/88.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/99.jpeg" width="30%"/>
+<img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/00.jpeg" width="30%"/>
 
 ## Funcionalidades
 
