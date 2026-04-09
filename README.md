@@ -7,11 +7,9 @@ Aplicación móvil (APK) de noticias enfocada en la región sudamericana. Muestr
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/11.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/22.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/77.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/44.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/55.jpeg" width="200"/>
   <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/66.jpeg" width="200"/>
-  <img src="https://raw.githubusercontent.com/JuniorAcebo/noti-ya/master/IMAGENES/33.jpeg" width="200"/>
 </div>
 
 ## Funcionalidades
